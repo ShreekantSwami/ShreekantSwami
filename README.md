@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaA7MeezbzEgUNY8Jq3ZgQHTXMiSIZTQfrHGqBg01F-DyzOZgiPwstvEYgK2cVPKYXgVy_3_7yqLwcEZTElZWQMhK_g4aQ=w1920-h1011" alt="LOGO" align="center" width="100%">
+<h1 align="center">Hi 👋, I'm Swami Shreekant Deepak</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<!--
-**ShreekantSwami/ShreekantSwami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreekantswami&label=Profile%20views&color=0e75b6&style=flat" alt="shreekantswami" /> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **shree20012018@gmail.com**
+<img style="border-radius:'12px'" align="right" src="https://lh3.googleusercontent.com/fife/AK0iWDyxxK271fcLVBd5T_pp3wmF8nsqdEnSX3w_GfbDQFIMTYQVCH3cRSc2_D84V1g30XWtROcKmnnCQANIGzSjcelZup7yh5exDVz9DpQnc3Y0jOLyImgjYvTsfiXAI2KFDnZPDpUdrQyvl_D3i2M3l1BXgpJybzTPWEucYKeqsrgE3z__7J_P2q8xhuKJTE8JYD3y4GYatox_NyF194I_4q-w41k-nE2EFI9L25XKRh2gMXAcdvlRO7MycOviPWyWdsfQpkoSVDvRldEvmklrur-W58-iKUOMjVc6oCC6SiiqnMXaetlK9Qxal27Wv5P9Hwxe-wPRGqpzJbJqGYvgL9EQytFC-T3mpiD3m7m1c2yyp2Sqai8F3if82n4CGuBhULSjuDQIEu6w70IiQui_qo2BWzS3_MxBpcm9fPLcLQEEfqFPT-vAPYph5vR3rTMosa_AF97sNfxeq78QUFec716M9p_qODoiMFRjmByVRIrR8Uw2gnd3Q9fNOLEC4p4XT27NTmmV7paHeKceF81D7MhzdPpbUnmHemdXPD5gpXXRlrebFdmvWxJb1xIyCW4C_o8qq_b_n3abujdkaVUF6_rfOnAO18635OKluf2SmXtNp5AQv4ACQHugnfb2ciIFnyaOcOdh4lxVivPX12iX7vwk5dGXy2kihov7oOkflKlfkR8O5lN2iEs_cnGZGBXc36gxWoY3JvZpqSOpEyvMhKHOPoOQ4bPNMK-9mwmWvDnuI5nOsdbXo-Mm3brJyXrhXhbAGvEL5bRdLSoajyObO_G8Pw9_578CddE2Nzgb0nY3KilDrp23Dld1BVJ4IE-5a4jtNedXIJR_JHLEwYze2eo46bpXd8cigy_-TXC7hNZcmYkubM0eNkYkHbZWP_40bt9As2RSD887Eicozc8nqT2YqDXwnTMj0_fONYLivd9vz6kpQ5BVe9l8NbOwzKn2AmzWamOfYA=w1920-h1011" width="400px">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<h3 align="left">Social Media</h3>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreekant-swami-555477202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreekant-swami-555477202/" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<hr/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shreekantswami&show_icons=true&locale=en" alt="shreekantswami" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreekantswami&show_icons=true&locale=en&layout=compact" alt="shreekantswami" />
